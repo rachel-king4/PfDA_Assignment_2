@@ -1,4 +1,4 @@
-year,Month,Day,Max (�F),Min (�F),max temp,Min (�C)
+year,Month,Day,Max (�F),Min (�F),max_temp,Min (�C)
 1885,1,1,50,43,10,6.1
 1885,1,2,44,36,6.7,2.2
 1885,1,3,47,34,8.3,1.1

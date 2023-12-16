@@ -1,4 +1,4 @@
-year,Month,Day,Max (�F),Min (�F),max temp,Min (�C)
+year,Month,Day,Max (�F),Min (�F),max_temp,Min (�C)
 1840,5,1,NA,48.5,NA,9.2
 1840,5,2,NA,45.6,NA,7.6
 1840,5,3,NA,NA,NA,NA

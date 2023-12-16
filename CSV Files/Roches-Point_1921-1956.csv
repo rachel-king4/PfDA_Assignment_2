@@ -1,4 +1,4 @@
-year,Month,Day,Max at 7h (�F),Min at 7h  (�F),Max at 18h  (�F),Min at 18h  (�F),max temp,Min at 7h (�C),Max at 18h (�C),Min at 18h (�C)
+year,Month,Day,Max at 7h (�F),Min at 7h  (�F),Max at 18h  (�F),Min at 18h  (�F),max_temp,Min at 7h (�C),Max at 18h (�C),Min at 18h (�C)
 1921,1,1,52,48,NA,NA,11.1,8.9,NA,NA
 1921,1,2,50,47,NA,NA,10,8.3,NA,NA
 1921,1,3,53,41,NA,NA,11.7,5,NA,NA

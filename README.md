@@ -1,5 +1,5 @@
 # PfDA_Assignment_2
-Repository for PfDA Assignment 2, created and maintained as part of the module Programming for Data Analysis, undertaken as part of the Higher Diploma in Science in Data Analytics in ATU, Galway in Winter 2023.
+Repository for PfDA Assignment 2, Winter 2023.
 
 ## **Contents**
 This repository contains a Jupyter notebook for an analysis of paleo-present climate data project completed for the Programming for Data Analytics Module undertaken as part of the Higher Diploma in Science in Data Analytics at ATU, Galway.
@@ -14,7 +14,7 @@ This repository contains a Jupyter notebook for an analysis of paleo-present cli
 > - Comment on accelerated warming based on very latest features
 
 ## **Running the Notebook**
-To run the notebook, the repository must first be cloned to the user's machine, which can be achieved by following the below instructions:
+To run the notebook, "pfda_assignment_2.ipynb" the repository must first be cloned to the user's machine, which can be achieved by following the below instructions:
 
 - First, navigate to the directory that you would like to clone the repository into using commands like:
     > cd: to change your working directory.
@@ -26,5 +26,7 @@ To run the notebook, the repository must first be cloned to the user's machine, 
 
 - Any changes made to the remote repository will not automatically sync with the local cloned copy. To update the local directory, navigate to the cloned directory and use this command:
     > git pull
+
+Once the repository is cloned, the cloned directory can be opened and ran in a code editor such as Visual Studio Code.
 
 

@@ -1,12 +1,12 @@
 # PfDA_Assignment_2
-Repository for PfDA Assignment 2, Winter 2023.
+Repository for Programming for Data Analysis Assignment 2, Winter 2023.
 
 ## **Contents**
-This repository contains a Jupyter notebook for an analysis of paleo-present climate data project completed for the Programming for Data Analytics Module undertaken as part of the Higher Diploma in Science in Data Analytics at ATU, Galway.
+This repository contains a Jupyter notebook for an analysis of paleo-present climate data project completed for the Programming for Data Analysis Module undertaken as part of the Higher Diploma in Science in Data Analytics at ATU, Galway.
 
 ## **Project Plan** 
 > - Analyse CO₂ vs Temperature Anomaly from 800kyrs – present
-> - Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage)
+> - Examine one other (paleo/modern) features (e.g. CH₄ or polar ice-coverage)
 > - Examine Irish context (Temperature and Rainfall)
 > - Fuse and analyse data from various data sources and format fused data set as a pandas dataframe and export to csv and json formats
 > - Analyse the data, the trends and the relationships between them (temporal leads/lags/frequency analysis)
